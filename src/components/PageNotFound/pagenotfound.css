@@ -1,0 +1,27 @@
+.error_title{
+    font-size: 100px;
+    margin-right: 60px;
+}
+
+.error_title span{
+    font-size: 100px;
+    color: #b2744c;
+
+}
+
+.error_type{
+    font-size: 50px;
+}
+.error_type span{
+    font-size: 50px;
+    color: #b2744c;
+}
+
+.error_para{
+    font-size: 30px;
+}
+
+.home_link{
+    text-decoration: none;
+    color: #b2744c;
+}
