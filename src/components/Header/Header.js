@@ -8,7 +8,7 @@ const Header = () => {
     <div>
       <nav id='navbar' className='navbar  navbar-expand-lg'>
       <div className='container-fluid'>
-        <Link className='navbar-brand' id='logo' to="/home"><img src='./gallery/logo.png' alt="logo"/></Link>
+        <Link className='navbar-brand' id='logo' to="/"><img src='./gallery/logo.png' alt="logo"/></Link>
         <button className='navbar-toggler' type='button' data-bs-toggle='collapse' data-bs-target='#navbarSupportedContent' aria-controls='navbarSupportedContent' aria-expanded='false' aria-label='Toggle navigation'>
           <span><img src='./gallery/bars.png' alt='bars' width="40"/></span>
         </button>
